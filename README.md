@@ -55,3 +55,11 @@ src/          MATLAB/Python scripts
 figures/      Output charts and visual diagnostics
 results/      Tables and empirical outputs
 data_sample/  Small sample data or documentation only
+
+Authors
+Gabriele Achia
+Giannandrea De Stefano
+Paolo Gaudenzi
+Disclaimer
+
+This repository is intended for academic and research purposes only. It does not constitute investment advice.
