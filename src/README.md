@@ -24,7 +24,9 @@ Users must set their own API key as an environment variable named:
 
 ```text
 CRYPTOCOMPARE_API_KEY
-Notes
+```
+
+## Notes
 
 This script is published as a cleaned academic version of the original project code.
 The code is intentionally kept as a single full workflow to preserve the structure of the empirical analysis.
