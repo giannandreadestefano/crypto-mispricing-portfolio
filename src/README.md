@@ -1,12 +1,13 @@
 # Source Code
 
-This folder contains the main scripts used for signal construction, portfolio backtesting and econometric analysis.
+This folder contains the full MATLAB script used for the empirical analysis in the project.
 
-Planned modules:
+## File
 
-- `signal_construction.m`: computation of Size, RA-MOM and composite mispricing scores
-- `portfolio_construction.m`: weekly long-short portfolio construction and 60/40 integration
-- `econometric_analysis.m`: CAPM/FF regressions, Fama-MacBeth tests and performance evaluation
-- `stress_testing.m`: bootstrap and stress scenario analysis
+- `crypto_mispricing_full_analysis.m`: full analysis script including benchmark construction, crypto data processing, mispricing signal construction, portfolio backtesting, factor regressions, GARCH estimation, bootstrap analysis and stress testing.
 
-The code is being cleaned and modularized before publication.
+## Notes
+
+The script is published as a cleaned academic version of the original project code.  
+API keys, raw datasets and local file paths are not included.  
+To run the script, users must provide the required input datasets and set their own CryptoCompare API key through an environment variable.
