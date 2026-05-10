@@ -59,7 +59,7 @@ These results should be interpreted as backtest evidence, subject to limitations
 
 ```text
 paper/        Research paper
-src/          MATLAB/Python scripts
+src/          MATLAB analysis script
 figures/      Output charts and visual diagnostics
 results/      Tables and empirical outputs
 data_sample/  Small sample data or documentation only
