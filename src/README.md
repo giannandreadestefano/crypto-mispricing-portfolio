@@ -18,15 +18,28 @@ These files should be placed in the working directory or in the path specified b
 
 ## API Key
 
-CryptoCompare data are retrieved through the API. For security reasons, no API key is included in the repository.
+CryptoCompare data are retrieved through the CryptoCompare API. For security reasons, no API key is included in this repository.
 
-Users must set their own API key as an environment variable named:
+To run the script, users must set their own API key as an environment variable named:
 
 ```text
 CRYPTOCOMPARE_API_KEY
 ```
 
+Example for macOS/Linux:
+
+```bash
+export CRYPTOCOMPARE_API_KEY="your_api_key_here"
+```
+
+Example for Windows PowerShell:
+
+```powershell
+setx CRYPTOCOMPARE_API_KEY "your_api_key_here"
+```
+
 ## Notes
 
 This script is published as a cleaned academic version of the original project code.
-The code is intentionally kept as a single full workflow to preserve the structure of the empirical analysis.
+
+The code is intentionally kept as a single full workflow to preserve the structure of the empirical analysis, from data collection and signal construction to portfolio backtesting, econometric testing and stress analysis.
