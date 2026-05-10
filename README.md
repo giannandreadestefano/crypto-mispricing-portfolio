@@ -1,8 +1,16 @@
 # Crypto Mispricing and Portfolio Diversification
 
-This repository contains the research project **Crypto Mispricing and Portfolio Diversification: Evidence from a Long-Short Strategy**, developed for the Econometric Theory course.
+This repository contains the research project **Crypto Mispricing and Portfolio Diversification: Evidence from a Long-Short Strategy**, developed in 2025 for the **Econometric Theory** course at **LUISS Guido Carli**.
 
 The project evaluates whether a systematic long-short cryptocurrency strategy can improve the performance and risk profile of a traditional 60/40 equity-bond portfolio.
+
+## Project Information
+
+- **Course:** Econometric Theory
+- **Institution:** LUISS Guido Carli
+- **Academic Year:** 2024–2025
+- **Project Date:** 2025
+- **Authors:** Gabriele Achia, Giannandrea De Stefano, Paolo Gaudenzi
 
 ## Research Question
 
